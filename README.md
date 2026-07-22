@@ -19,3 +19,5 @@ Power BI
 
 ## File
 `power_bi_project.pbix`
+
+![Power BI Dashboard](images/dashboard.png)
